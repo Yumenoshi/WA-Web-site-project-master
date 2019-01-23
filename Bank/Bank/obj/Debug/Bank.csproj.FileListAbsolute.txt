@@ -1,0 +1,10 @@
+F:\ProjektWeb\Bank\Bank\bin\Bank.dll
+F:\ProjektWeb\Bank\Bank\bin\Bank.pdb
+F:\ProjektWeb\Bank\Bank\obj\Debug\Bank.dll
+F:\ProjektWeb\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\bin\Bank.dll
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\bin\Bank.pdb
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\Laptop\source\repos\ProjektWeb\Bank\Bank\obj\Debug\Bank.pdb
